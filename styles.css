@@ -1,0 +1,49 @@
+body{
+background-color: #7AD4DD;
+font-family: 'Playfair Display', serif;
+
+}
+h1{
+  padding: 10px;
+font-family:  cursive;
+}
+.imagee{
+  width: 1510px;
+  height: auto;
+}
+.hori-row{
+  position: absolute;
+  top:300px;
+width: 100%;
+}
+.heading{
+  text-align: center;
+color: pink;
+width: 100%;
+position: absolute;
+top:70px;
+
+}
+.container{
+  position: relative;
+margin: 0;
+}
+.lines{
+    text-align: center;
+  position: absolute;
+  width: 100%;
+  margin: 0;
+top:400px;
+}
+.image{
+  position: absolute;
+  top:500px;
+}
+hr{
+
+   border-style: dotted none none none;
+   width: 120px;
+    color: grey;
+  border-width: 5px;
+  box-sizing: border-box;
+}
