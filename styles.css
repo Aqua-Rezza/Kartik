@@ -2,15 +2,16 @@ body{
 background-color: #7AD4DD;
 font-family: 'Playfair Display', serif;
 
+  background-position-y:-100%;
+
+background-repeat: no-repeat;
+background-image: url("farm-summer-landscape-illustration-cartoon-farmland-countryside-background-scene-with-road-farmers-house-through-green-grass-field-meadow-hills-grassland-wind-mills-nature-scenery_213110-516.webp");
 }
 h1{
   padding: 10px;
 font-family:  cursive;
 }
-.imagee{
-  width: 1510px;
-  height: auto;
-}
+
 .hori-row{
   position: absolute;
   top:300px;
@@ -35,10 +36,7 @@ margin: 0;
   margin: 0;
 top:400px;
 }
-.image{
-  position: absolute;
-  top:500px;
-}
+
 hr{
 
    border-style: dotted none none none;
